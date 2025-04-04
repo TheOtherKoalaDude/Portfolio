@@ -1,0 +1,35 @@
+html{
+    Background: rgb(162, 219, 165);
+}
+
+body {
+    background-color: white;
+    width: 700px;
+    height: 550px;
+    margin: 25px auto;
+    text-align: center;
+    padding: 15px 20px;
+    border-radius: 25px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid rgb(70, 70, 70);
+}
+
+p {
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover {
+    color: rgb(87, 119, 223);
+}
